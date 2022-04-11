@@ -1,0 +1,2 @@
+# odin-recipes
+The current project is called Recipes from The Odin Project.  After finishing this project, I will have demonstrated the ability to commit a project to GIT, design a basic website using HTML, and learn.
